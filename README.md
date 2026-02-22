@@ -1,16 +1,16 @@
- # 🚗💨 Street Racing Vibes: [Public Page] 🔥  
+ # 🚗💨 Street Racing Vibes 🔥  
 
 ![Site Banner](https://ennokapitza.de/en/assets/image-cache/image-cache/content/reportage/tokyoracers/enno-kapitza-photography-reportage-tokyo-nightracers02.cfcd958f.4b6a4e43.jpg)  
 
 > _"Low and slow, that's the tempo."_ 🎶
 
 ## 🎛️ À propos
-Bienvenue dans **[Public Page]**, un projet inspiré de la culture street ! Ici, tout est question de style, de personnalisation et de performance. Que ce soit pour le code ou pour les voitures, on garde ça **smooth et efficace**. 
+Bienvenue dans un projet inspiré de la culture street ! Ici, tout est question de style, de personnalisation et de performance. Que ce soit pour le **code** ou pour les **voitures**.
 
 ---
 
 ## 🔧 Personnalisation
-💡 **Ce projet est fait pour être customisé !** Ajoute tes propres mods, change le style, fais-le rebondir à ton goût. 
+💡 **Ce projet est fait pour être customisé !** Ajoute tes propres models, change le style, fais-le à ton goût. 
 
 ---
 
@@ -27,3 +27,4 @@ Bienvenue dans **[Public Page]**, un projet inspiré de la culture street ! Ici,
 
 
 🔥 _Keep it low, keep it smooth!_ 🔥
+
